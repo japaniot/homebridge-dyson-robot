@@ -10,7 +10,7 @@
     "homebridge": ">= 0.4.0"
   },
   "dependencies": {
-    "node-fetch": "2.6.0",
+    "node-fetch": "2.6.1",
     "mqtt": "3.0.0"
   }
 }
